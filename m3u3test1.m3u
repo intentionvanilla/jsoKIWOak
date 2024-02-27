@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml"
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR| ULUSAL",|TR| TRT 1 HD
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 UHD" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR| ULUSAL",|TR| TRT 1 UHD
