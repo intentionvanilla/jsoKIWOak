@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"
+
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR| ULUSAL",|TR| TRT 1 HD
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 UHD" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR| ULUSAL",|TR| TRT 1 UHD
@@ -536,3 +537,258 @@ https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3199434850&
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3817963776&type=M3U8_AUTO_1080&fid=451234866637079&sign=c14301836d02b55ab471a8971dd0ab9b3a110d0c&timestamp=1707858406&jsToken=4B5C8F65C9532AB2C42381E57C6A2F280B4E6CC0A5EAF78263F34E650E0FC939FE23FCB9424B5513589B63B0EC5E17FE79C828BC12E6D2F56EF451DFAA673C0B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:-1 tvg-name="Konuşanlar S04 E24" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E24
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3693462191&type=M3U8_AUTO_1080&fid=715409221367141&sign=eada1528111d92caa0559234e4ae8e1c91467946&timestamp=1708158254&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2823A2C22E6815F71A8FBDA35FAFD7BCFF8EEFF4BC2BC51FE6642D70A9F1D966594A76410840A6CF0AA8D85E71EBE583A0&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+
+
+
+
+
+#EXTINF:-1,------|Netherlands|------
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31531
+#EXTINF:-1,NL001:Ziggo Sport Select FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31530
+#EXTINF:-1,NL002:Veronica XD FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31529
+#EXTINF:-1,NL003:Ziggo Sport FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31528
+#EXTINF:-1,NL004:SBS 9 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31527
+#EXTINF:-1,NL005:NPO 3 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31526
+#EXTINF:-1,NL006:NPO 2 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31525
+#EXTINF:-1,NL007:NPO 1 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31524
+#EXTINF:-1,NL009:VIAPLAY XTRA 1 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31522
+#EXTINF:-1,NL010:VIAPLAY XTRA 2 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31521
+#EXTINF:-1,NL011:VIAPLAY XTRA 3 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31520
+#EXTINF:-1,NL012:VIAPLAY XTRA 4 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31519
+#EXTINF:-1,NL014:Eurosport 1 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31517
+#EXTINF:-1,NL015:Eurosport 2 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31516
+#EXTINF:-1,NL016:Film1 Premiere FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31515
+#EXTINF:-1,NL017:VIAPLAY XTRA 5 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31514
+#EXTINF:-1,NL021:Net 5 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31510
+#EXTINF:-1,NL022:Nicktoons
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31509
+#EXTINF:-1,NL023:VIAPLAY XTRA 6 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31508
+#EXTINF:-1,NL026:Ziggo Sport Voetbal SD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31505
+#EXTINF:-1,NL027:Ziggo Sport Select HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31504
+#EXTINF:-1,NL028:Ziggo Sport Racing HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31503
+#EXTINF:-1,NL029:Ziggo Sport Golf HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31502
+#EXTINF:-1,NL030:Ziggo Sport Extra 2 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31501
+#EXTINF:-1,NL031:Ziggo Sport Extra1 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31500
+#EXTINF:-1,NL032:Veronica XD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31499
+#EXTINF:-1,NL033:TLC
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31498
+#EXTINF:-1,NL035:SBS 6 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31496
+#EXTINF:-1,NL036:RTL lounge
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31495
+#EXTINF:-1,NL037:RTL 8
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31494
+#EXTINF:-1,NL038:RTL 7 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31493
+#EXTINF:-1,NL039:RTL 5
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31492
+#EXTINF:-1,NL040:RTL 4 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31491
+#EXTINF:-1,NL041:Omroep Gelderland
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31490
+#EXTINF:-1,NL042:NPO 2 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31489
+#EXTINF:-1,NL043:NPO 1 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31488
+#EXTINF:-1,NL044:SLAM! TV
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31487
+#EXTINF:-1,NL045:Nick Jr
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31486
+#EXTINF:-1,NL046:National Geographic
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31485
+#EXTINF:-1,NL047:NET 5
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31484
+#EXTINF:-1,NL050:History FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31481
+#EXTINF:-1,NL052:Film1 Family
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31479
+#EXTINF:-1,NL054:FOX Channel
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31477
+#EXTINF:-1,NL057:Film1 Premiere HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31474
+#EXTINF:-1,NL059:Film1 Drama
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31472
+#EXTINF:-1,NL060:RTV 7
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31471
+#EXTINF:-1,NL061:Discovery Channel
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31470
+#EXTINF:-1,NL062:Comedy Central
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31469
+#EXTINF:-1,NL063:RTL Telekids
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31468
+#EXTINF:-1,NL064:Animal Planet
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31467
+#EXTINF:-1,NL066:100%NL
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31465
+#EXTINF:-1,NL067:E! Entertainment
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31464
+#EXTINF:-1,NL069:24 Kitchen HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31462
+#EXTINF:-1,NL071:Duck TV
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31460
+#EXTINF:-1,NL072:AT5
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31459
+#EXTINF:-1,NL073:Baby TV
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31458
+#EXTINF:-1,NL074:TVOost
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31457
+#EXTINF:-1,NL075:VIAPLAY XTRA 7 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31456
+#EXTINF:-1,NL076:Boomerang HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31455
+#EXTINF:-1,NL077:Cartoon Network HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31454
+#EXTINF:-1,NL078:Comedy Central Extra
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31453
+#EXTINF:-1,NL079:VTM 3
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31452
+#EXTINF:-1,NL080:Crime & Investigation HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31451
+#EXTINF:-1,NL081:TV WEST
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31450
+#EXTINF:-1,NL082:Discovery Science FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31449
+#EXTINF:-1,NL084:Discovery World HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31447
+#EXTINF:-1,NL085:Disney Channel
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31446
+#EXTINF:-1,NL086:Disney XD HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31445
+#EXTINF:-1,NL088:VIAPLAY XTRA 8 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31443
+#EXTINF:-1,NL090:DenHaag TV
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31441
+#EXTINF:-1,NL091:VIAPLAY XTRA 9 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31440
+#EXTINF:-1,NL092:Investigation Discovery
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31439
+#EXTINF:-1,NL093:TVDrenthe
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31438
+#EXTINF:-1,NL094:VIAPLAY XTRA 10 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31437
+#EXTINF:-1,NL095:Film1 Action
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31436
+#EXTINF:-1,NL096:Family 7 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31435
+#EXTINF:-1,NL097:Omroep Flevoland
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31434
+#EXTINF:-1,NL098:VIAPLAY XTRA 11 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31433
+#EXTINF:-1,NL099:VIAPLAY XTRA 12 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31432
+#EXTINF:-1,NL100:VIAPLAY XTRA 13 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31431
+#EXTINF:-1,NL101:VIAPLAY XTRA 14 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31430
+#EXTINF:-1,NL102:VIAPLAY XTRA 15 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31429
+#EXTINF:-1,NL103:VIAPLAY XTRA 16 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31428
+#EXTINF:-1,NL104:VIAPLAY XTRA 17 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31427
+#EXTINF:-1,NL105:VIAPLAY XTRA 18 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31426
+#EXTINF:-1,NL106:ESPN 1 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31425
+#EXTINF:-1,NL107:ESPN 2 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31424
+#EXTINF:-1,NL108:ESPN 3 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31423
+#EXTINF:-1,NL109:ESPN 4 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31422
+#EXTINF:-1,NL112:VIAPLAY XTRA 19 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31419
+#EXTINF:-1,NL117:MTV
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31414
+#EXTINF:-1,NL119:History HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31412
+#EXTINF:-1,NL120:VIAPLAY XTRA 20 Full HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31411
+#EXTINF:-1,NL123:L1mburg
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31408
+#EXTINF:-1,NL125:TV 538
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31406
+#EXTINF:-1,NL126:Ziggo Sport Voetbal HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31405
+#EXTINF:-1,NL127:Ziggo Sport DOCU HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31404
+#EXTINF:-1,NL128:BBC First HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31403
+#EXTINF:-1,NL130:Insight
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31401
+#EXTINF:-1,NL131:NAT GEO HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31400
+#EXTINF:-1,NL132:NAT GEO WILD HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31399
+#EXTINF:-1,NL134:Nick Junior
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31397
+#EXTINF:-1,NL135:Nick Music HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31396
+#EXTINF:-1,NL137:Nickelodeon HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31394
+#EXTINF:-1,NL138:NPO 1 Extra
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31393
+#EXTINF:-1,NL140:Npo Nieuws
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31391
+#EXTINF:-1,NL141:NPO Politiek
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31390
+#EXTINF:-1,NL142:NPO Zapp Xtra
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31389
+#EXTINF:-1,NL143:Omroep Brabant HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31388
+#EXTINF:-1,NL144:Omroep Fryslan
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31387
+#EXTINF:-1,NL145:Omroep West
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31386
+#EXTINF:-1,NL146:Omroep ZeeLand HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31385
+#EXTINF:-1,NL149:RTL 4 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31382
+#EXTINF:-1,NL150:RTL 5 HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31381
+#EXTINF:-1,NL151:RTL 7 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31380
+#EXTINF:-1,NL152:Ziggo Sport Racing FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31379
+#EXTINF:-1,NL153:RTL Crime HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31378
+#EXTINF:-1,NL155:RTL Z HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31376
+#EXTINF:-1,NL157:RTV Noord
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31374
+#EXTINF:-1,NL160:RTV Utrecht
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31371
+#EXTINF:-1,NL164:Spike HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31367
+#EXTINF:-1,NL165:Ziggo Sport GOLF FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31366
+#EXTINF:-1,NL166:Euronews
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31365
+#EXTINF:-1,NL171:XITE HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31360
+#EXTINF:-1,NL174:Ziggo Sport Select SD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/31357
