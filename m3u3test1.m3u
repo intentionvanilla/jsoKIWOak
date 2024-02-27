@@ -161,7 +161,7 @@ http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33052
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33039
 #EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| DISCOVERY CHANNEL HD //" tvg-logo="https://yt3.googleusercontent.com/drkHGsfyzC-I3sqZTES2MaL52jwYvHPJHD2W1DidmpcLSS-cpEMPLjlSVwCKpXT_P01tt3jVNw=s900-c-k-c0x00ffffff-no-rj" group-title="TR| BELGESEL",|TR| DISCOVERY CHANNEL HD
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33004
-#EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| DISCOVERY ID HD" tvg-logo="https://eu1-prod-images.disco-api.com/2024/02/14/1da2d534-4a22-3a2b-b9b7-0edb015d5f92.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="TR| BELGESEL",|TR| DISCOVERY ID HD
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| DISCOVERY ID HD //" tvg-logo="https://eu1-prod-images.disco-api.com/2024/02/14/1da2d534-4a22-3a2b-b9b7-0edb015d5f92.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="TR| BELGESEL",|TR| DISCOVERY ID HD
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33003
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="TR| BELGESEL",|TR| TOPRAK TV
 http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
