@@ -152,7 +152,7 @@ http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT BELGESEL" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="TR| BELGESEL",|TR| TGRT BELGESEL
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 #EXTINF:-1 tvg-id="tlc.tr" tvg-name="|TR| TLC UHD" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="TR| BELGESEL",|TR| TLC UHD
-http://canli.haber365.com.tr/tr/tlc/index.m3u8
+http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| D MAX HD" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="TR| BELGESEL",|TR| D MAX HD
 https://proxy.canlitvplayer.com/dmaxdvr.blutv.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMAL PLANET HD" tvg-logo="https://play-lh.googleusercontent.com/jAxhr4dxUw-qMlubrEWYkR6J6_ZBXmUMW58yb4UenG5_bs8F7s3wHPMWBMc5Mk3sv64K" group-title="TR| BELGESEL",|TR| ANIMAL PLANET HD
