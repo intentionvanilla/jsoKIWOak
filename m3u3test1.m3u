@@ -1,0 +1,416 @@
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR| ULUSAL",|TR| TRT 1 HD
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 UHD" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR| ULUSAL",|TR| TRT 1 UHD
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="|TR| TRT 2 HD" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="TR| ULUSAL",|TR| TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="|TR| TRT 2 UHD" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="TR| ULUSAL",|TR| TRT 2 UHD
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 HD" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="TR| ULUSAL",|TR| TV 8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 HD" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="TR| ULUSAL",|TR| TV 8.5 HD
+http://50.7.218.122:8080/tv85/index.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 UHD" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="TR| ULUSAL",|TR| TV 8 UHD
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 UHD" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="TR| ULUSAL",|TR| TV 8.5 UHD
+http://50.7.218.122:8080/tv85/index.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW HD" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="TR| ULUSAL",|TR| SHOW HD
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D HD" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="TR| ULUSAL",|TR| KANAL D HD
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV HD" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="TR| ULUSAL",|TR| ATV HD
+https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR HD" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="TR| ULUSAL",|TR| STAR HD
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| FOX HD" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="TR| ULUSAL",|TR| FOX HD
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TURKMENELI TV UHD" tvg-logo="https://www.turkmenelitv.com/storage/logo-turk.png" group-title="TR| ULUSAL",|TR| TURKMENELI TV UHD
+https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| BEYAZ HD" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="TR| ULUSAL",|TR| BEYAZ HD
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=65x71b74pmct&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| KANAL 7 HD" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="TR| ULUSAL",|TR| KANAL 7 HD
+https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=65x7dwpzu23r&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW UHD" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="TR| ULUSAL",|TR| SHOW UHD
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D UHD" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="TR| ULUSAL",|TR| KANAL D UHD
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV UHD" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="TR| ULUSAL",|TR| ATV UHD
+https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR UHD" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="TR| ULUSAL",|TR| STAR UHD
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| FOX UHD" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="TR| ULUSAL",|TR| FOX UHD
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| BEYAZ UHD" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="TR| ULUSAL",|TR| BEYAZ UHD
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=65x71b74pmct&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| KANAL 7 UHD" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="TR| ULUSAL",|TR| KANAL 7 UHD
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=65x7dwpzu23r&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 360 TV UHD" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="TR| ULUSAL",|TR| 360 TV UHD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| DMAX UHD" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="TR| ULUSAL",|TR| DMAX UHD
+https://proxy.canlitvplayer.com/dmaxdvr.blutv.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 UHD" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="TR| ULUSAL",|TR| A2 UHD
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| TEVE 2 UHD" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="TR| ULUSAL",|TR| TEVE 2 UHD
+https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="|TR| YABAN TV HD" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="TR| ULUSAL",|TR| YABAN TV HD
+https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w751515797.m3u8?hash=6306f5eb7693c74453b3cfb744e6f4cf
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| SHOW MAX" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="TR| ULUSAL",|TR| SHOW MAX
+http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EKOTURK" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="TR| ULUSAL",|TR| EKOTURK
+http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KARDELEN TV" tvg-logo="http://assets.tvcdn.net/8e755f51-988a-4f41-aae3-9acbccee8c7d.png" group-title="TR| ULUSAL",|TR| KARDELEN TV
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR|  HRT AKDENIZ TV" tvg-logo="http://assets.tvcdn.net/3ab34df2-5bd2-48ce-a0ad-e1bb1eb7d02e.png" group-title="TR| ULUSAL",|TR|  HRT AKDENIZ TV
+http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 68" tvg-logo="http://assets.tvcdn.net/4dbccb66-328c-41b2-ae3e-ad3b3475dc49.png" group-title="TR| ULUSAL",|TR| KANAL 68
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LALEGUL TV" tvg-logo="http://assets.tvcdn.net/97578c5d-493f-4a99-ab6b-aedc02609cf0.png" group-title="TR| ULUSAL",|TR| LALEGUL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KIBRIS GENC TV" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="TR| ULUSAL",|TR| KIBRIS GENC TV
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL T KIBRIS" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="TR| ULUSAL",|TR| KANAL T KIBRIS
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KIBRIS TV" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="TR| ULUSAL",|TR| KIBRIS TV
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 2 UHD" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="TR| ULUSAL",|TR| BRT 2 UHD
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL V ANTALYA" tvg-logo="http://assets.tvcdn.net/0c455b18-ce0f-435f-be77-4416d112918e.png" group-title="TR| ULUSAL",|TR| KANAL V ANTALYA
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 3 ISPARTA HD" tvg-logo="http://assets.tvcdn.net/56083fc6-468c-4fdd-bb0c-5fbc65316124.png" group-title="TR| ULUSAL",|TR| KANAL 3 ISPARTA HD
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| PAMUKKALE TV" tvg-logo="http://assets.tvcdn.net/330e9b7e-d2af-49fe-a3dc-604442704618.png" group-title="TR| ULUSAL",|TR| PAMUKKALE TV
+http://stream.tvcdn.net/yerel/pamukkale-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 1 UHD" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="TR| ULUSAL",|TR| BRT 1 UHD
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KENT TURK TV KAYSERA" tvg-logo="http://assets.tvcdn.net/b80ee8ad-5cd5-4a12-885d-0def48c0ebfb.png" group-title="TR| ULUSAL",|TR| KENT TURK TV KAYSERA
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| VIZYON 58 SIVAS" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/2a/31/c72a31e4-1e34-9251-21ec-b394292db022/source/512x512bb.jpg" group-title="TR| ULUSAL",|TR| VIZYON 58 SIVAS
+https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ALTAS TV ORDU" tvg-logo="https://play-lh.googleusercontent.com/eq-C_lfTY7XsrATsXfYzMEyhstVcoW-mdVpNJzsf147yk4NwKUsOxCI5_aEOvtqrisxx" group-title="TR| ULUSAL",|TR| ALTAS TV ORDU
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CAY TV RIZE" tvg-logo="http://assets.tvcdn.net/0539d847-8740-42dc-be86-8e1fe7bc5aa2.png" group-title="TR| ULUSAL",|TR| CAY TV RIZE
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CIFTCI TV" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="TR| ULUSAL",|TR| CIFTCI TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL FIRAT ELAZIG" tvg-logo="http://assets.tvcdn.net/f00f1472-e8e7-4f30-b9e3-fb4376a43aac.png" group-title="TR| ULUSAL",|TR| KANAL FIRAT ELAZIG
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KUDUS TV" tvg-logo="http://assets.tvcdn.net/2c5ca955-eefe-4c69-81fa-007da1d9d18f.png" group-title="TR| ULUSAL",|TR| KUDUS TV
+https://yayin30.haber100.com/live/kudustv/chunklist_w2072226242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV KAYSERI" tvg-logo="http://assets.tvcdn.net/537bd1f7-01d3-4afc-93ea-819a4ee26393.png" group-title="TR| ULUSAL",|TR| TV KAYSERI
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 1 KAYSERI" tvg-logo="http://assets.tvcdn.net/f843631d-b47b-4476-8cad-914f2adc4133.png" group-title="TR| ULUSAL",|TR| TV 1 KAYSERI
+https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
+#EXTINF:1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="TR| ULUSAL",|TR| TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 5" tvg-logo="http://assets.tvcdn.net/3df2642a-042c-45b6-b292-01600c5590cd.png" group-title="TR| ULUSAL",|TR| TV 5
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BENGU TURK" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="TR| ULUSAL",|TR| BENGU TURK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="|TR| TRT AVAZ UHD" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" group-title="TR| ULUSAL",|TR| TRT AVAZ UHD
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="|TR| TRT TURK UHD" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="TR| ULUSAL",|TR| TRT TURK UHD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL AVRUPA EU" tvg-logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" group-title="TR| ULUSAL",|TR| KANAL AVRUPA EU
+https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT EU" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="TR| ULUSAL",|TR| TGRT EU
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SHOW TURK EU" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="TR| ULUSAL",|TR| SHOW TURK EU
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8 INT EU" tvg-logo="http://assets.tvcdn.net/7f69ae6e-f799-42f5-916b-a22eccad421b.png" group-title="TR| ULUSAL",|TR| TV 8 INT EU
+https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 7 EU" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png" group-title="TR| ULUSAL",|TR| KANAL 7 EU
+http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EURO D EU" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="TR| ULUSAL",|TR| EURO D EU
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ATV EU" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="TR| ULUSAL",|TR| ATV EU
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KON TV KONYA" tvg-logo="http://assets.tvcdn.net/59e2f69f-f34d-419e-bbbc-0e5ac81889ab.png" group-title="TR| ULUSAL",|TR| KON TV KONYA
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 42 KONYA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e0/Tv42logosu.jpg" group-title="TR| ULUSAL",|TR| KANAL 42 KONYA
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DIYANET TV UHD" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="TR| ULUSAL",|TR| DIYANET TV UHD
+https://diyanet.blutv.com/blutv_diyanet2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AKIT TV UHD" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="TR| ULUSAL",|TR| AKIT TV UHD
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| REHBER TV" tvg-logo="http://assets.tvcdn.net/cbf5e44c-689a-42d4-bee5-83f6cf5f8939.png" group-title="TR| ULUSAL",|TR| REHBER TV
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="|TR| SEMERKAND TV UHD" tvg-logo="http://assets.tvcdn.net/6c704c42-f7de-40d3-8b8b-19579387d446.png" group-title="TR| ULUSAL",|TR| SEMERKAND TV UHD
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="|TR| DOST TV" tvg-logo="http://assets.tvcdn.net/95e2b9a5-991b-4eda-bd0f-ec3c570d9147.png" group-title="TR| ULUSAL",|TR| DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| RUMELI TV" tvg-logo="http://assets.tvcdn.net/42d14653-3a07-4663-bbcc-03b286ca76b7.png" group-title="TR| ULUSAL",|TR| RUMELI TV
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="meltemtv.tr" tvg-name="|TR| MELTEM TV" tvg-logo="http://assets.tvcdn.net/61b5c17b-e0dd-4702-bb9b-689097e4648f.png" group-title="TR| ULUSAL",|TR| MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FLASH TV" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="TR| ULUSAL",|TR| FLASH TV
+https://flashtv.blutv.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="|TR| TRT BELGESEL UHD" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="TR| BELGESEL",|TR| TRT BELGESEL UHD
+http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT BELGESEL" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="TR| BELGESEL",|TR| TGRT BELGESEL
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="|TR| TLC UHD" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="TR| BELGESEL",|TR| TLC UHD
+http://canli.haber365.com.tr/tr/tlc/index.m3u8
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| D MAX HD" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="TR| BELGESEL",|TR| D MAX HD
+https://proxy.canlitvplayer.com/dmaxdvr.blutv.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="TR| BELGESEL",|TR| TOPRAK TV
+http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c8b09a02-18e2-4952-8ba3-5a5f8b2c5f2e.png" group-title="TR| Dizi",Cennet Mahallesi
+http://stream.tvcdn.net/dizi-youtube/cennet-mahallesi.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/842192cc-760c-41d6-ba34-78cf50bb6d14.png" group-title="TR| Dizi",Behzat Ç.
+http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png" group-title="TR| Dizi",Güldür Güldür
+http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e83f6574-4011-4247-b034-c5b4b2f02f71.png" group-title="TR| Dizi",ÇGHB
+http://stream.tvcdn.net/dizi-youtube/cghb.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ea14170-18a5-4953-9601-dacfdaf70a13.png" group-title="TR| Dizi",Emret Komutanım
+http://stream.tvcdn.net/dizi-youtube/emret-komutanim.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c9893fec-8914-49a5-9b85-e17a5ac9cbc9.png" group-title="TR| Dizi",Kiralık Aşk
+http://stream.tvcdn.net/dizi-youtube/kiralik-ask.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8ae6bd1c-9cb4-4ecf-921e-1e42a1e9f623.png" group-title="TR| Dizi",Kızılcık Şerbeti
+http://stream.tvcdn.net/dizi-youtube/kizilcik-serbeti.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/157fe298-94c4-4ed4-b679-e3ecbd1ba845.png" group-title="TR| Dizi",Avlu
+http://stream.tvcdn.net/dizi-youtube/avlu.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/af6fb332-4553-495c-9f50-323681f9940b.png" group-title="TR| Dizi",Dila Hanım
+http://stream.tvcdn.net/dizi-youtube/dila-hanim.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ab5538f-f870-4e6f-b8c5-4cb9cfd57e61.png" group-title="TR| Dizi",Kurt Seyit ve Şura
+http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8bcaa15a-cde7-4f7d-a5c2-a681caa664b8.png" group-title="TR| Dizi",Arıza
+http://stream.tvcdn.net/dizi-youtube/ariza.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f5a2dd8f-0260-4059-8ab9-ea282a189244.jpeg" group-title="TR| Dizi",Çilek Kokusu
+http://stream.tvcdn.net/dizi-youtube/cilek-kokusu.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cf695d77-9ea2-44f2-8508-c4c2ce9117f9.jpg" group-title="TR| Dizi",Göç Zamanı
+http://stream.tvcdn.net/dizi-youtube/goc-zamani.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/309fcce8-bac0-445b-8bf9-73bc427827fc.jpeg" group-title="TR| Dizi",Hanım Köylü
+http://stream.tvcdn.net/dizi-youtube/hanim-koylu.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f69aa54-6bc1-403c-88e2-455ccb3e3662.jpeg" group-title="TR| Dizi",Hayat Bazen Tatlıdır
+http://stream.tvcdn.net/dizi-youtube/hayat-bazen-tatlidir.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d4339df7-f3ee-434f-a383-de6aadff9d3f.png" group-title="TR| Dizi",Jet Sosyete
+http://stream.tvcdn.net/dizi-youtube/jet-sosyete.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3d0ed3af-6d73-41ba-bdf9-8c2a23dd64ee.jpg" group-title="TR| Dizi",Kalbimin Sultanı
+http://stream.tvcdn.net/dizi-youtube/kalbimin-sultani.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/005904e3-22a9-472b-b39e-d183b8e56e8f.png" group-title="TR| Dizi",Kuzey Yıldızı: İlk Aşk
+http://stream.tvcdn.net/dizi-youtube/kuzey-yildizi-ilk-ask.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/99272e8f-8f48-491e-b982-2835bf6d799b.png" group-title="TR| Dizi",Ramo
+http://stream.tvcdn.net/dizi-youtube/ramo.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bebad468-4a36-4543-9c9e-32d915390d3f.jpeg" group-title="TR| Dizi",Sihirli Annem
+http://stream.tvcdn.net/dizi-youtube/sihirli-annem.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce570c18-78f1-4844-a650-f38a59e36d42.png" group-title="TR| Dizi",Yeni Gelin
+http://stream.tvcdn.net/dizi-youtube/yeni-gelin.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KEMAL SUNAL TV 4K" tvg-logo="http://103.161.34.240:81/logos/TURkish/SINEMA/KEMALSUNALTV.png" group-title="TR| SINEMA",|TR| KEMAL SUNAL TV 4K
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kemalsunalfilmleri.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="TR| SINEMA",|TR| ŞABAN TV
+http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="TR| SINEMA",|TR| ŞABAN TV 2 (ARZU FILM)
+http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="TR| SINEMA",|TR| ŞABAN TV 3 (GÜLşAH FILM)
+http://stream.tvcdn.net/diger-eglence/saban-tv-3-gulsah-film.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="TR| SINEMA",ŞABAN TV 4 (GÜLşAH FILM 2)
+http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dbdb9b76-d4f4-47b4-a342-54bee0025b1c.jpeg" group-title="TR| SINEMA",|TR| YANSıMA SINEMA TV
+http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="TR| SINEMA",|TR| YEşILçAM TV 1
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-1.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="TR| SINEMA",|TR| YEşILçAM TV 2
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-2.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="TR| SINEMA",|TR| YEşILçAM TV 3
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="TR| SINEMA",|TR| ZEKI & METOM 
+http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="TR| SINEMA",|TR| CINE 1
+http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="TR| SINEMA",|TR| CINE5 TV
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="TR| SINEMA",|TR| FILM ATÖLYESI
+http://stream.tvcdn.net/diger-eglence/film-atolyesi.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="TR| SINEMA",|TR| SINEMA TV 1
+http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="TR| SINEMA",|TR| SINEMA TV 2
+http://stream.tvcdn.net/diger-eglence/sinema-tv-2.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="TR| SINEMA",|TR| SINEMA TV 3
+http://stream.tvcdn.net/diger-eglence/sinema-tv-3.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="|TR| TRT HABER UHD" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="TR| HABER",|TR| TRT HABER UHD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="|TR| CNN TURK UHD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="TR| HABER",|TR| CNN TURK UHD
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="|TR| NTV UHD" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="TR| HABER",|TR| NTV UHD
+http://canli.haber365.com.tr/tr/ntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 24 HABER UHD" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="TR| HABER",|TR| 24 HABER UHD
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="|TR| HABER GLOBAL UHD" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="TR| HABER",|TR| HABER GLOBAL UHD
+https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EKO TURK TV" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="TR| HABER",|TR| EKO TURK TV
+http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="|TR| TV NET UHD" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="TR| HABER",|TR| TV NET UHD
+https://new.cache-stream.workers.dev/stream/UC8rh34IlJTN0lDZlTwzWzjg/live.m3u8
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="|TR| ULKE TV UHD" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="TR| HABER",|TR| ULKE TV UHD
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="|TR| A HABER UHD" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="TR| HABER",|TR| A HABER UHD
+http://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A PARA UHD" tvg-logo="http://assets.tvcdn.net/5aca3b8c-0c1b-41f7-96c0-b70f8a3f24fc.png" group-title="TR| HABER",|TR| A PARA UHD
+http://stream.tvcdn.net/ekonomi/a-para.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 100 UHD" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="TR| HABER",|TR| TV 100 UHD
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="TR| HABER",|TR| TBMM TV
+http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KOY TV" tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png" group-title="TR| HABER",|TR| KOY TV
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="|TR| BLOOMBERG HT UHD" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="TR| HABER",|TR| BLOOMBERG HT UHD
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="|TR| TRT WORLD UHD" tvg-logo="https://play-lh.googleusercontent.com/ge3dV89ND13fe3CK4wmJQc8rx3Eh_TiWTJ8ykaTJSrlFu4cUDFFjZn5kwX6yXkjweR4" group-title="TR| HABER",|TR| TRT WORLD UHD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="|TR| ULUSAL KANAL" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="TR| HABER",|TR| ULUSAL KANAL
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HALK TV HD+" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="TR| HABER",|TR| HALK TV HD+
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="|TR| TGRT HABER" tvg-logo="=http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="TR| HABER",|TR| TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TELE 1" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="TR| HABER",|TR| TELE 1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| UZAY HABER" tvg-logo="http://assets.tvcdn.net/e279ba7a-a734-4520-bb56-8bf133e510d5.png" group-title="TR| HABER",|TR| UZAY HABER
+http://stream.tvcdn.net/yerel/uzay-haber.m3u8
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="|TR| KANAL B" tvg-logo="http://assets.tvcdn.net/855d4cc7-027f-4c11-9e06-2471764dfc30.png" group-title="TR| HABER",|TR| KANAL B
+https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRT UHD" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="TR| HABER",|TR| KRT UHD
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="|TR| HABER TURK UHD" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="TR| HABER",|TR| HABER TURK UHD
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YOL TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="TR| HABER",|TR| YOL TV
+https://stream.yol.tv:9443/medialive/yol.m3u8
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="|TR| TRT COCUK UHD" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="TR| COCUK",|TR| TRT COCUK UHD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT EBA TV HD LISE" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD LISE
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="|TR| TRT EBA TV HD ILKOKUL" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD ILKOKUL
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8?hash=f4075f5b609a9940bba006648b26421d
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="|TR| TRT EBA TV HD ORTAOKUL" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD ORTAOKUL
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="|TR| MINIKA GO" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="TR| COCUK",|TR| MINIKA GO
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MINIKA COCUK" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="TR| COCUK",|TR| MINIKA COCUK
+http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="|TR| CARTOON NETWORK" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="TR| COCUK",|TR| CARTOON NETWORK
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/11f87958-d4f4-4c66-8701-5b8f967f3e8b.jpeg" group-title="TR| COCUK",|TR| KONUşAN TOM VE ARKADAşLARı
+http://stream.tvcdn.net/cocuk-egitim/konusan-tom-ve-arkadaslari.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5bc78cad-9532-427d-91c2-683ea2b63318.jpeg" group-title="TR| COCUK",|TR| MUTLU ÇOCUK
+http://stream.tvcdn.net/cocuk-egitim/mutlu-cocuk.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9fed159a-2a27-44e6-a5b5-e0db636149b7.jpeg" group-title="TR| COCUK",|TR| KÜçÜK KAMYON LEO
+http://stream.tvcdn.net/cocuk-egitim/kucuk-kamyon-leo.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7e5a471b-d773-4b32-9866-e0f1672bfafb.png" group-title="TR| COCUK",|TR| KUKULI
+http://stream.tvcdn.net/cocuk-egitim/kukuli.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7d8047ee-dc9a-47c8-9a41-d3f3ab88226b.png" group-title="TR| COCUK",|TR| KUKULI ŞARKıLAR
+http://stream.tvcdn.net/cocuk-egitim/kukuli-sarkilar.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/de5a4b3e-2d06-4ab4-a081-5009cd4c1396.jpeg" group-title="TR| COCUK",FURKIş TV
+http://stream.tvcdn.net/cocuk-egitim/furkis-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="TR| COCUK",CUMBURLOP TV
+http://stream.tvcdn.net/cocuk-egitim/cumburlop-tv.m3u8
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="|TR| TRT MUZIK UHD" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="TR| MUZIK",|TR| TRT MUZIK UHD
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="kraltv.tr" tvg-name="|TR| KRAL TV HD" tvg-logo="http://assets.tvcdn.net/6b1d3b33-8f67-40fe-90e8-3d57db6c6318.jpg" group-title="TR| MUZIK",|TR| KRAL TV HD
+http://stream.tvcdn.net/diger-muzik/genc-kral-tv.m3u8
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="|TR| KRAL POP HD" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="TR| MUZIK",|TR| KRAL POP HD
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| METROPOL ANKARA" tvg-logo="http://assets.tvcdn.net/4201374b-528e-4f2b-b4ee-5b13091766b6.png" group-title="TR| MUZIK",|TR| METROPOL ANKARA
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| POWER UHD" tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="TR| MUZIK",|TR| POWER UHD
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="|TR| POWER TURK UHD" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" group-title="TR| MUZIK",|TR| POWER TURK UHD
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="|TR| DREAM TURK" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="TR| MUZIK",|TR| DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="TR| MUZIK",|TR| NUMBER ONE TV
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="TR| MUZIK",|TR| NUMBER ONE TÜRK
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+#EXTINF:1 tvg-id="MilyonTV.tr" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="TR| MUZIK",|TR| MILYON TV
+http://stream.tvcdn.net/muzik/milyon-tv.m3u8
+#EXTINF:1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="TR| MUZIK",|TR| TATLıSES TV
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+#EXTINF:1 tvg-id="PowerDance.tr" tvg-logo="http://assets.tvcdn.net/aca9e643-a4b0-4f01-abd5-66a5a2fc1042.png" group-title="TR| MUZIK",|TR| POWER DANCE
+http://stream.tvcdn.net/muzik/power-dance.m3u8
+#EXTINF:1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="TR| MUZIK",|TR| POWER LOVE
+http://stream.tvcdn.net/muzik/power-love.m3u8
+#EXTINF:1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="TR| MUZIK",|TR| POWERTÜRK AKUSTIK
+http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
+#EXTINF:1 tvg-id="PowerTurkSlow.tr" tvg-logo="http://assets.tvcdn.net/fcec79e5-9d47-4812-86ac-00728538ad7f.png" group-title="TR| MUZIK",|TR| POWERTÜRK SLOW
+http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+#EXTINF:1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="TR| MUZIK",|TR| POWERTÜRK TAPTAZE
+http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
+#EXTINF:1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="TR| MUZIK",|TR| NUMBER 1 AşK
+http://stream.tvcdn.net/muzik/number-1-ask.m3u8
+#EXTINF:1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="TR| MUZIK",|TR| NUMBER 1 DAMAR
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+#EXTINF:1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="TR| MUZIK",|TR| NUMBER 1 DANCE
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAVI KARADENIZ TV" tvg-logo="http://assets.tvcdn.net/5175fea1-0cc0-485d-9b66-01fe886b0f64.png" group-title="TR| MUZIK",|TR| MAVI KARADENIZ TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="|TR| BEIN SPORTS HABER HD" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="TR| SPOR",|TR| BEIN SPORTS HABER HD
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="|TR| SPORTS TV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="TR| SPOR",|TR| SPORTS TV
+http://stream.tvcdn.net/spor/sports-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBUSPOR 1 HD" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="TR| SPOR",|TR| TIVIBUSPOR 1 HD
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TAY TV" tvg-logo="http://assets.tvcdn.net/11ab0508-b919-4623-bd4d-08c46946cf8e.png" group-title="TR| SPOR",|TR| TAY TV
+http://stream.tvcdn.net/spor/tay-tv.m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="|TR| TRT SPOR HD" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="TR| SPOR",|TR| TRT SPOR HD
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A SPOR HD" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="TR| SPOR",|TR| A SPOR HD
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="TR| SPOR",|TR| GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT SPOR YILDIZ HD" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="TR| SPOR",|TR| TRT SPOR YILDIZ HD
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:1 tvg-id="TRT3.tr" tvg-logo="http://assets.tvcdn.net/192450f9-3d32-4754-967f-7c8128934963.png" group-title="TR| SPOR",|TR| TRT SPOR 3 HD
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="|TR| FB TV HD" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="TR| SPOR",|TR| FB TV HD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/fbtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 FHD" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="TR| SPOR",|TR| BEIN SPORTS 1 FHD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33028
+#EXTINF:-1 tvg-name="Konuşanlar S04 E01" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E01
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1471268469&type=M3U8_AUTO_1080&fid=751266844063025&sign=9d2e902e677ed6b550a9e62138d1e564f49a3426&timestamp=1705774655&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E02" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E02
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3919552587&type=M3U8_AUTO_1080&fid=588394640707038&sign=5c16725ad20dc1e41456d6786c29b1daa056e911&timestamp=1705774182&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E03" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E03
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3614733653&type=M3U8_AUTO_1080&fid=1056598732275138&sign=d701b1fb009734b84496f45108d3a47d2426e01e&timestamp=1705783801&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E04" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E04
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3325710656&type=M3U8_AUTO_1080&fid=777990062168709&sign=e9338ac08a0b7e56d40f7b15d25fc9c6120cacab&timestamp=1705783893&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E05" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E05
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1592747934&type=M3U8_AUTO_1080&fid=325381662797105&sign=39fc05d86cef1942b5a5e12e957a7381e57393a2&timestamp=1705784009&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E06" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E06
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3978730202&type=M3U8_AUTO_1080&fid=67338793856212&sign=ad96c5abf61a6fe6cd9258ecd0c44d4ef4545b36&timestamp=1705784135&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E07" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E07
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=490107767&type=M3U8_AUTO_1080&fid=406279574187884&sign=2db813f7ebbbe1039ecfeb6f026fcfe741e6a77b&timestamp=1705784644&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E08" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E08
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2959473649&type=M3U8_AUTO_1080&fid=865218785367389&sign=6ff7f6646fc66a8282d3d3fa990c9981219eea64&timestamp=1705784773&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E09" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E09
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=693341146&type=M3U8_AUTO_1080&fid=979053591005831&sign=6fb3eeb4f6388161b2207f9140604b93cae78003&timestamp=1705784939&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E10" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E10
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=160631463&type=M3U8_AUTO_1080&fid=199134936567106&sign=88f9d131b34bf7b116a0e1fdf6e2f39df72ab775&timestamp=1705785064&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E11" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E11
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3302523523&type=M3U8_AUTO_1080&fid=666920015112773&sign=6764826bc6d797f1dcf177526a5c8add3eefd315&timestamp=1705785169&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E12" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E12
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2594149209&type=M3U8_AUTO_1080&fid=1001351250506154&sign=02d5265295063120d5557f92a28d46622dca27d4&timestamp=1705785256&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E13" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E13
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1075793569&type=M3U8_AUTO_1080&fid=815368836251773&sign=8f5a98dbca75b9236ff10a6f766b03dfd2caa96a&timestamp=1705599962&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E14" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E14
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3566911913&type=M3U8_AUTO_1080&fid=184090517090837&sign=b55c9342029cef6f4062a1c9d9f31801a6e23714&timestamp=1705599919&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E15" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E15
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=488309651&type=M3U8_AUTO_1080&fid=739429632835976&sign=f365fea13267f34dca882ad79b3ac2cd13388f06&timestamp=1705599874&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E16" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E16
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=178693071&type=M3U8_AUTO_1080&fid=613361682774985&sign=f2d50ee6b65043341c0c22ad2d77a2a68590b845&timestamp=1705582792&jsToken=DF7F8D0591E248AE2B7BEF21F9B84819010F53007BBA0AF20819556C58AE5444260404DF8DF9F739C89595AF247C4E985B8724C1BF2AC8D1C28DB8648E4057D10D9B7497DB5C9D44667F58C7512EFEC541233901A1E9FA44C6AA88A517BBBF7F&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E17" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E17
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2175910318&type=M3U8_AUTO_1080&fid=839643931012060&sign=09e31fbc3817271969c0320c2a4b92708284721b&timestamp=1705789754&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E18" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E18
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=328849865&type=M3U8_AUTO_1080&fid=737716449775285&sign=e16a8200ae3f5d65adfa825193b3624977f729ad&timestamp=1705789799&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E19" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E19
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3159514476&type=M3U8_AUTO_1080&fid=780280474552555&sign=dd07f8eae36534cd5c741c51ec61bcb387742db8&timestamp=1706391227&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E20" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E20
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=484070209&type=M3U8_AUTO_1080&fid=699978217970364&sign=c60348ad496ee47cadf8e55a2e31fc07bfc55152&timestamp=1705785403&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E21" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E21
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=219441782&type=M3U8_AUTO_1080&fid=299613819310064&sign=2f2e297f22e4d9ea6aed2a85b5051ac941b36f03&timestamp=1706389926&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E22" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E22
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3199434850&type=M3U8_AUTO_1080&fid=381570443618777&sign=aa6b77c9189c46dc21d58b858f9c736312040dda&timestamp=1706894202&jsToken=4B5C8F65C9532AB2C42381E57C6A2F284CA212046FD7835C454341A6143BD45C5FCF7D2C17A66602BCDC3D82F11238D15E921825CD192DE77FFABE19D5868915&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E23" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E23
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3817963776&type=M3U8_AUTO_1080&fid=451234866637079&sign=c14301836d02b55ab471a8971dd0ab9b3a110d0c&timestamp=1707858406&jsToken=4B5C8F65C9532AB2C42381E57C6A2F280B4E6CC0A5EAF78263F34E650E0FC939FE23FCB9424B5513589B63B0EC5E17FE79C828BC12E6D2F56EF451DFAA673C0B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E24" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E24
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3693462191&type=M3U8_AUTO_1080&fid=715409221367141&sign=eada1528111d92caa0559234e4ae8e1c91467946&timestamp=1708158254&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2823A2C22E6815F71A8FBDA35FAFD7BCFF8EEFF4BC2BC51FE6642D70A9F1D966594A76410840A6CF0AA8D85E71EBE583A0&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
