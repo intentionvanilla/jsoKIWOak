@@ -52,7 +52,7 @@ https://proxy.canlitvplayer.com/dmaxdvr.blutv.com/blutv_dmax_dvr/live_720p200000
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 UHD" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="TR| ULUSAL",|TR| A2 UHD
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| TEVE 2 UHD" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="TR| ULUSAL",|TR| TEVE 2 UHD
-hhttp://stream.tvcdn.net/eglence/teve2.m3u8
+http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-name="|TR| YABAN TV HD" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="TR| ULUSAL",|TR| YABAN TV HD
 https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w751515797.m3u8?hash=6306f5eb7693c74453b3cfb744e6f4cf
 #EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| SHOW MAX" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="TR| ULUSAL",|TR| SHOW MAX
