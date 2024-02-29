@@ -39,7 +39,7 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D UHD" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="TR| ULUSAL",|TR| KANAL D UHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV UHD" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="TR| ULUSAL",|TR| ATV UHD
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR UHD" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="TR| ULUSAL",|TR| STAR UHD
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| FOX UHD" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="TR| ULUSAL",|TR| FOX UHD
