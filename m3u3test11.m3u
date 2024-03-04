@@ -350,7 +350,7 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-id="haberturk.tr" tvg-name="|TR| HABER TURK UHD" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="TR| HABER",|TR| HABER TURK UHD
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| YOL TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="TR| HABER",|TR| YOL TV
-https://stream.yol.tv:9443/medialive/yol.m3u8
+http://stream.tvcdn.net/haber/yol-tv.m3u8
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="|TR| TRT COCUK UHD" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="TR| COCUK",|TR| TRT COCUK UHD
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| TRT EBA TV HD LISE" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD LISE
