@@ -50,8 +50,6 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=65x71b74pmct&app=fc
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=65x7dwpzu23r&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="|TR| 360 TV UHD" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="TR| ULUSAL",|TR| 360 TV UHD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| DMAX UHD" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="TR| ULUSAL",|TR| DMAX UHD
-https://proxy.canlitvplayer.com/dmaxdvr.blutv.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 UHD" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="TR| ULUSAL",|TR| A2 UHD
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| TEVE 2 UHD" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="TR| ULUSAL",|TR| TEVE 2 UHD
