@@ -106,6 +106,24 @@ https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| TV 5" tvg-logo="http://assets.tvcdn.net/3df2642a-042c-45b6-b292-01600c5590cd.png" group-title="TR| ULUSAL",|TR| TV 5
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KON TV KONYA" tvg-logo="http://assets.tvcdn.net/59e2f69f-f34d-419e-bbbc-0e5ac81889ab.png" group-title="TR| ULUSAL",|TR| KON TV KONYA
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 42 KONYA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e0/Tv42logosu.jpg" group-title="TR| ULUSAL",|TR| KANAL 42 KONYA
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DIYANET TV UHD" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="TR| ULUSAL",|TR| DIYANET TV UHD
+https://diyanet.blutv.com/blutv_diyanet2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AKIT TV UHD" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="TR| ULUSAL",|TR| AKIT TV UHD
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| REHBER TV" tvg-logo="http://assets.tvcdn.net/cbf5e44c-689a-42d4-bee5-83f6cf5f8939.png" group-title="TR| ULUSAL",|TR| REHBER TV
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="|TR| SEMERKAND TV UHD" tvg-logo="http://assets.tvcdn.net/6c704c42-f7de-40d3-8b8b-19579387d446.png" group-title="TR| ULUSAL",|TR| SEMERKAND TV UHD
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="|TR| DOST TV" tvg-logo="http://assets.tvcdn.net/95e2b9a5-991b-4eda-bd0f-ec3c570d9147.png" group-title="TR| ULUSAL",|TR| DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| RUMELI TV" tvg-logo="http://assets.tvcdn.net/42d14653-3a07-4663-bbcc-03b286ca76b7.png" group-title="TR| ULUSAL",|TR| RUMELI TV
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="meltemtv.tr" tvg-name="|TR| MELTEM TV" tvg-logo="http://assets.tvcdn.net/61b5c17b-e0dd-4702-bb9b-689097e4648f.png" group-title="TR| ULUSAL",|TR| MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BENGU TURK" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="TR| ULUSAL",|TR| BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="|TR| TRT AVAZ UHD" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" group-title="TR| ULUSAL",|TR| TRT AVAZ UHD
@@ -126,26 +144,6 @@ http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| ATV EU" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="TR| ULUSAL",|TR| ATV EU
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| KON TV KONYA" tvg-logo="http://assets.tvcdn.net/59e2f69f-f34d-419e-bbbc-0e5ac81889ab.png" group-title="TR| ULUSAL",|TR| KON TV KONYA
-https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 42 KONYA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e0/Tv42logosu.jpg" group-title="TR| ULUSAL",|TR| KANAL 42 KONYA
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| DIYANET TV UHD" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="TR| ULUSAL",|TR| DIYANET TV UHD
-https://diyanet.blutv.com/blutv_diyanet2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| AKIT TV UHD" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="TR| ULUSAL",|TR| AKIT TV UHD
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| REHBER TV" tvg-logo="http://assets.tvcdn.net/cbf5e44c-689a-42d4-bee5-83f6cf5f8939.png" group-title="TR| ULUSAL",|TR| REHBER TV
-https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
-#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="|TR| SEMERKAND TV UHD" tvg-logo="http://assets.tvcdn.net/6c704c42-f7de-40d3-8b8b-19579387d446.png" group-title="TR| ULUSAL",|TR| SEMERKAND TV UHD
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="|TR| DOST TV" tvg-logo="http://assets.tvcdn.net/95e2b9a5-991b-4eda-bd0f-ec3c570d9147.png" group-title="TR| ULUSAL",|TR| DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| RUMELI TV" tvg-logo="http://assets.tvcdn.net/42d14653-3a07-4663-bbcc-03b286ca76b7.png" group-title="TR| ULUSAL",|TR| RUMELI TV
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="meltemtv.tr" tvg-name="|TR| MELTEM TV" tvg-logo="http://assets.tvcdn.net/61b5c17b-e0dd-4702-bb9b-689097e4648f.png" group-title="TR| ULUSAL",|TR| MELTEM TV
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| FLASH TV" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="TR| ULUSAL",|TR| FLASH TV
-https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="|TR| TRT BELGESEL UHD" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="TR| BELGESEL",|TR| TRT BELGESEL UHD
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT BELGESEL" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="TR| BELGESEL",|TR| TGRT BELGESEL
@@ -156,7 +154,7 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 https://proxy.canlitvplayer.com/dmaxdvr.blutv.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| ANIMAL PLANET HD //" tvg-logo="https://play-lh.googleusercontent.com/jAxhr4dxUw-qMlubrEWYkR6J6_ZBXmUMW58yb4UenG5_bs8F7s3wHPMWBMc5Mk3sv64K" group-title="TR| BELGESEL",|TR| ANIMAL PLANET HD
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33052
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN IZ HD //" tvg-logo="https://yt3.googleusercontent.com/1HrWyn8bP6oe3B5UMz0vf-344nXbjRqPSZ5rBmi9_g23XNcNiHYDUTbjdAMx8d_LhMTDOYrf=s900-c-k-c0x00ffffff-no-rj" group-title="TR| BELGESEL",|TR| BEIN IZ HD
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN IZ HD //" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/299/Image/bein_iz_250x150_2022.png" group-title="TR| BELGESEL",|TR| BEIN IZ HD
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33039
 #EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| DISCOVERY CHANNEL HD //" tvg-logo="https://yt3.googleusercontent.com/drkHGsfyzC-I3sqZTES2MaL52jwYvHPJHD2W1DidmpcLSS-cpEMPLjlSVwCKpXT_P01tt3jVNw=s900-c-k-c0x00ffffff-no-rj" group-title="TR| BELGESEL",|TR| DISCOVERY CHANNEL HD
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33004
