@@ -349,6 +349,8 @@ https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-id="haberturk.tr" tvg-name="|TR| HABER TURK UHD" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="TR| HABER",|TR| HABER TURK UHD
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAVI KARADENIZ TV" tvg-logo="http://assets.tvcdn.net/5175fea1-0cc0-485d-9b66-01fe886b0f64.png" group-title="TR| HABER",|TR| MAVI KARADENIZ TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| YOL TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="TR| HABER",|TR| YOL TV
 http://stream.tvcdn.net/haber/yol-tv.m3u8
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="|TR| TRT COCUK UHD" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="TR| COCUK",|TR| TRT COCUK UHD
@@ -423,8 +425,6 @@ http://stream.tvcdn.net/muzik/number-1-ask.m3u8
 http://stream.tvcdn.net/muzik/number-1-damar.m3u8
 #EXTINF:1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="TR| MUZIK",|TR| NUMBER 1 DANCE
 http://stream.tvcdn.net/muzik/number-1-dance.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MAVI KARADENIZ TV" tvg-logo="http://assets.tvcdn.net/5175fea1-0cc0-485d-9b66-01fe886b0f64.png" group-title="TR| MUZIK",|TR| MAVI KARADENIZ TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="|TR| BEIN SPORTS HABER HD" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="TR| SPOR",|TR| BEIN SPORTS HABER HD
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 #EXTINF:-1 tvg-id="sportstv.tr" tvg-name="|TR| SPORTS TV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="TR| SPOR",|TR| SPORTS TV
