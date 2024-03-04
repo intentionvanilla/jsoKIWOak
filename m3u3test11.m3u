@@ -58,7 +58,7 @@ http://stream.tvcdn.net/eglence/teve2.m3u8
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/32797
 #EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| SHOW MAX" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="TR| ULUSAL",|TR| SHOW MAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN GURME HD" tvg-logo="https://yt3.googleusercontent.com/DydM-jknApUjHELx6Z7Pw2VP_nOotALlrqOcHgF3Njq6xJOQK6K-JMG06OeqK5UOSt3y7NRhawc=s900-c-k-c0x00ffffff-no-rj" group-title="TR| BELGESEL",|TR| BEIN GURME HD
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN GURME HD //" tvg-logo="https://yt3.googleusercontent.com/DydM-jknApUjHELx6Z7Pw2VP_nOotALlrqOcHgF3Njq6xJOQK6K-JMG06OeqK5UOSt3y7NRhawc=s900-c-k-c0x00ffffff-no-rj" group-title="TR| BELGESEL",|TR| BEIN GURME HD
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33040
 #EXTINF:-1 tvg-id="" tvg-name="|TR| EKOTURK" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="TR| ULUSAL",|TR| EKOTURK
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
@@ -76,6 +76,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| KIBRIS TV" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="TR| ULUSAL",|TR| KIBRIS TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 1 UHD" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="TR| ULUSAL",|TR| BRT 1 UHD
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 2 UHD" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="TR| ULUSAL",|TR| BRT 2 UHD
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL V ANTALYA" tvg-logo="http://assets.tvcdn.net/0c455b18-ce0f-435f-be77-4416d112918e.png" group-title="TR| ULUSAL",|TR| KANAL V ANTALYA
@@ -84,8 +86,6 @@ https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| PAMUKKALE TV" tvg-logo="http://assets.tvcdn.net/330e9b7e-d2af-49fe-a3dc-604442704618.png" group-title="TR| ULUSAL",|TR| PAMUKKALE TV
 http://stream.tvcdn.net/yerel/pamukkale-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 1 UHD" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="TR| ULUSAL",|TR| BRT 1 UHD
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| KENT TURK TV KAYSERA" tvg-logo="http://assets.tvcdn.net/b80ee8ad-5cd5-4a12-885d-0def48c0ebfb.png" group-title="TR| ULUSAL",|TR| KENT TURK TV KAYSERA
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| VIZYON 58 SIVAS" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/2a/31/c72a31e4-1e34-9251-21ec-b394292db022/source/512x512bb.jpg" group-title="TR| ULUSAL",|TR| VIZYON 58 SIVAS
