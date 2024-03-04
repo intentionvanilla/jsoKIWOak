@@ -355,12 +355,8 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playli
 http://stream.tvcdn.net/haber/yol-tv.m3u8
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="|TR| TRT COCUK UHD" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="TR| COCUK",|TR| TRT COCUK UHD
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT EBA TV HD LISE" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD LISE
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT EBA TV HD" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD LISE
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="|TR| TRT EBA TV HD ILKOKUL" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD ILKOKUL
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8?hash=f4075f5b609a9940bba006648b26421d
-#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="|TR| TRT EBA TV HD ORTAOKUL" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="TR| COCUK",|TR| TRT EBA TV HD ORTAOKUL
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="minikago.tr" tvg-name="|TR| MINIKA GO" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="TR| COCUK",|TR| MINIKA GO
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| MINIKA COCUK" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="TR| COCUK",|TR| MINIKA COCUK
@@ -434,15 +430,15 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| TAY TV" tvg-logo="http://assets.tvcdn.net/11ab0508-b919-4623-bd4d-08c46946cf8e.png" group-title="TR| SPOR",|TR| TAY TV
 http://stream.tvcdn.net/spor/tay-tv.m3u8
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-name="|TR| TRT SPOR HD" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="TR| SPOR",|TR| TRT SPOR HD
-http://stream.tvcdn.net/spor/trt-spor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| A SPOR HD" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="TR| SPOR",|TR| A SPOR HD
-http://stream.tvcdn.net/spor/a-spor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="TR| SPOR",|TR| GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| TRT SPOR YILDIZ HD" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="TR| SPOR",|TR| TRT SPOR YILDIZ HD
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:1 tvg-id="TRT3.tr" tvg-logo="http://assets.tvcdn.net/192450f9-3d32-4754-967f-7c8128934963.png" group-title="TR| SPOR",|TR| TRT SPOR 3 HD
 http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A SPOR HD" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="TR| SPOR",|TR| A SPOR HD
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="TR| SPOR",|TR| GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="fbtv.tr" tvg-name="|TR| FB TV HD" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="TR| SPOR",|TR| FB TV HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/fbtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 HD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="TR| SPOR",|TR| BEIN SPORTS 1 HD //
