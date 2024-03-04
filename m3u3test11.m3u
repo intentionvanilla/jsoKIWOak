@@ -308,7 +308,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="|TR| CNN TURK UHD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="TR| HABER",|TR| CNN TURK UHD
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 tvg-id="ntv.tr" tvg-name="|TR| NTV UHD" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="TR| HABER",|TR| NTV UHD
-http://canli.haber365.com.tr/tr/ntv/index.m3u8
+http://stream.tvcdn.net/haber/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| 24 HABER UHD" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="TR| HABER",|TR| 24 HABER UHD
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="|TR| HABER GLOBAL UHD" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="TR| HABER",|TR| HABER GLOBAL UHD
