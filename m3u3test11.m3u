@@ -85,7 +85,7 @@ https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| PAMUKKALE TV" tvg-logo="http://assets.tvcdn.net/330e9b7e-d2af-49fe-a3dc-604442704618.png" group-title="TR| ULUSAL",|TR| PAMUKKALE TV
 http://stream.tvcdn.net/yerel/pamukkale-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| KENT TURK TV KAYSERA" tvg-logo="http://assets.tvcdn.net/b80ee8ad-5cd5-4a12-885d-0def48c0ebfb.png" group-title="TR| ULUSAL",|TR| KENT TURK TV KAYSERA
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+http://stream.tvcdn.net/yerel/kent-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| VIZYON 58 SIVAS" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/2a/31/c72a31e4-1e34-9251-21ec-b394292db022/source/512x512bb.jpg" group-title="TR| ULUSAL",|TR| VIZYON 58 SIVAS
 https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| ALTAS TV ORDU" tvg-logo="https://play-lh.googleusercontent.com/eq-C_lfTY7XsrATsXfYzMEyhstVcoW-mdVpNJzsf147yk4NwKUsOxCI5_aEOvtqrisxx" group-title="TR| ULUSAL",|TR| ALTAS TV ORDU
