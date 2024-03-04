@@ -56,8 +56,8 @@ https://proxy.canlitvplayer.com/dmaxdvr.blutv.com/blutv_dmax_dvr/live_720p200000
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| TEVE 2 UHD" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="TR| ULUSAL",|TR| TEVE 2 UHD
 http://stream.tvcdn.net/eglence/teve2.m3u8
-#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="|TR| YABAN TV HD" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="TR| ULUSAL",|TR| YABAN TV HD
-https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w751515797.m3u8?hash=6306f5eb7693c74453b3cfb744e6f4cf
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="|TR| YABAN TV HD //" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="TR| ULUSAL",|TR| YABAN TV HD
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/32797
 #EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| SHOW MAX" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="TR| ULUSAL",|TR| SHOW MAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN GURME HD" tvg-logo="https://yt3.googleusercontent.com/DydM-jknApUjHELx6Z7Pw2VP_nOotALlrqOcHgF3Njq6xJOQK6K-JMG06OeqK5UOSt3y7NRhawc=s900-c-k-c0x00ffffff-no-rj" group-title="TR| BELGESEL",|TR| BEIN GURME HD
