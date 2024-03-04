@@ -58,7 +58,7 @@ http://stream.tvcdn.net/eglence/teve2.m3u8
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/32797
 #EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| SHOW MAX" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="TR| ULUSAL",|TR| SHOW MAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN GURME HD //" tvg-logo="https://yt3.googleusercontent.com/DydM-jknApUjHELx6Z7Pw2VP_nOotALlrqOcHgF3Njq6xJOQK6K-JMG06OeqK5UOSt3y7NRhawc=s900-c-k-c0x00ffffff-no-rj" group-title="TR| BELGESEL",|TR| BEIN GURME HD
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN GURME HD //" tvg-logo="https://yt3.googleusercontent.com/DydM-jknApUjHELx6Z7Pw2VP_nOotALlrqOcHgF3Njq6xJOQK6K-JMG06OeqK5UOSt3y7NRhawc=s900-c-k-c0x00ffffff-no-rj" group-title="TR| ULUSAL",|TR| BEIN GURME HD
 http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33040
 #EXTINF:-1 tvg-id="" tvg-name="|TR| EKOTURK" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="TR| ULUSAL",|TR| EKOTURK
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
