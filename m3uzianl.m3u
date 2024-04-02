@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/generate/2egdghVsnq.xml"
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="TR| ULUSAL",|TR| TRT 1 HD
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
@@ -349,7 +349,7 @@ http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="TR| SPOR",|TR| GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="fbtv.tr" tvg-name="|TR| FB TV HD" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="TR| SPOR",|TR| FB TV HD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/fbtv.m3u8
+http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:-1 tvg-name="Konuşanlar S04 E01" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E01
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1471268469&type=M3U8_AUTO_1080&fid=751266844063025&sign=9d2e902e677ed6b550a9e62138d1e564f49a3426&timestamp=1705774655&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:-1 tvg-name="Konuşanlar S04 E02" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="TR| Konuşanlar Programi",|TR| Konuşanlar S04 E02
