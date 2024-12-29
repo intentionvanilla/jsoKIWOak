@@ -16,6 +16,8 @@ http://50.7.218.122:8080/tv85/index.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 UHD" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="TR| ULUSAL",|TR| TV 8.5 UHD
 http://50.7.218.122:8080/tv85/index.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV 8 INT UHD" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/tv8-int-sender-logo-275878.png" group-title="TR| ULUSAL",|TR| TV 8 INT UHD
+https://tgn.bozztv.com/dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW HD" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="TR| ULUSAL",|TR| SHOW HD
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D HD" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="TR| ULUSAL",|TR| KANAL D HD
